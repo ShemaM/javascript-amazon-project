@@ -1,4 +1,5 @@
 import {cart } from '../data/cart.js'; //  double dot (..) means going out of a folder
+import {products} from '../data/products.js';
 
 let productsHTML = '';
 
